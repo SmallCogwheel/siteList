@@ -15,7 +15,7 @@ const projects = [
     url: "https://smallcogwheel.github.io/-_-/"
   },
   {
-    title: "Pandas 뉴스 요",
+    title: "Pandas 뉴스 요약",
     description: "Pandas를 시용해서 뉴스 기사를 요약 할수 있다고?",
     url: "https://pandas-nrp0.onrender.com/"
   }
