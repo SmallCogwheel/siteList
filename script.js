@@ -1,23 +1,23 @@
 const projects = [
   {
-    title: "포트폴리오 사이트",
-    description: "자기소개와 프로젝트를 정리한 웹사이트",
-    url: "https://example.com"
+    title: "사이트 리스트",
+    description: "SmallCogwheel이 만든 사이트 정리, 바로 여기!",
+    url: "https://smallcogwheel.github.io/siteList/"
   },
   {
-    title: "할 일 관리 앱",
-    description: "할 일을 추가하고 체크할 수 있는 앱",
-    url: "https://example2.com"
+    title: "가위 바위 보",
+    description: "간단한 코드 덩어리와 하는 가위바위보 한판!",
+    url: "https://smallcogwheel.github.io/Rock_Paper_Scissors/"
   },
   {
-    title: "게임 커뮤니티",
-    description: "게임 유저들이 소통할 수 있는 커뮤니티",
-    url: "https://example3.com"
+    title: "카페인 계산",
+    description: "인류에게 필요한 카페인 난 얼마나 먹고있지?",
+    url: "https://smallcogwheel.github.io/-_-/"
   },
   {
-    title: "음악 플레이어",
-    description: "브라우저에서 음악을 재생할 수 있는 사이트",
-    url: "https://example4.com"
+    title: "Pandas 뉴스 요",
+    description: "Pandas를 시용해서 뉴스 기사를 요약 할수 있다고?",
+    url: "https://pandas-nrp0.onrender.com/"
   }
 ];
 
