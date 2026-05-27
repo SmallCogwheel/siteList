@@ -15,6 +15,11 @@ const projects = [
     url: "https://smallcogwheel.github.io/-_-/"
   },
   {
+    title: "ROOT_ACCESS : 기계 도시",
+    description: "약탈하고 파괴하고 정상에 올라 메인 기어를 멈춰라!",
+    url: "https://smallcogwheel.github.io/text_game/"
+  },
+  {
     title: "Pandas 뉴스 요약",
     description: "Pandas를 시용해서 뉴스 기사를 요약 할수 있다고?",
     url: "https://pandas-nrp0.onrender.com/"
